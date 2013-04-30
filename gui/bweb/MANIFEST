@@ -1,9 +1,0 @@
-lib/Bconsole.pm
-lib/Bweb.pm
-lib/CCircle.pm
-lib/GBalloon.pm
-lib/GTime.pm
-Makefile.PL
-INSTALL
-LICENSE
-MANIFEST
